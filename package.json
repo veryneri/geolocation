@@ -1,0 +1,26 @@
+{
+  "name": "geolocation",
+  "version": "1.0.0",
+  "description": "Taller de geolocalización y mapas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "navigator",
+    "geolocation",
+    "gmaps",
+    "google",
+    "maps"
+  ],
+  "author": "Edson Neri <edson.neri@correo.uia.mx>",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/veryneri/geolocation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/owner/project/issues",
+    "email": "edson.neri@correo.uia.mx"
+  }
+}
